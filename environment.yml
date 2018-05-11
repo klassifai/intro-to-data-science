@@ -1,0 +1,9 @@
+name: intro 
+dependencies:
+- python>=3.6
+- jupyter
+- notebook
+- pandas
+- scipy
+- pip:
+  - scikit-learn
